@@ -1,4 +1,14 @@
-## Hi there 👋
+## I'm Nahian Rashha, a rising senior at Amherst College studying Math and Statistics. 
+
+I'm interested in the intersection of data science and impact and spend time thinking about issues of economic access and equity through a statistical lens. I usually code in Python with intermediate knowledge of Java. My projects are usually in statistical modelling, deep learning, and data analytics. Some of my most recent ones are: 
+
+**Analyzing the Median Income of US Householders**: Used R to analyze US Census Bureau data and created informative visualizations to capture the distribution of median income by household owners’ highest educational attainment
+
+**Currency Crisis Prediction using Macroeconomic Indicators**: Built a neural network in Python to predict currency crises from macroeconomic time series; applied mechanistic interpretability to uncover model biases and improve reliability
+
+**Free-Market Competition Simulator**: Used Java to create a free-market simulator game where the user plays against the computer to solve prisoner’s dilemma matrices using their market knowledge of a product to beat their competitor
+
+Please contact me at nrashha26@amherst.edu
 
 <!--
 **nrashha/nrashha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
