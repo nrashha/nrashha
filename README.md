@@ -1,6 +1,6 @@
 ## I'm Nahian Rashha, a rising senior at Amherst College studying Math and Statistics. 
 
-I'm interested in the intersection of data science and impact and spend time thinking about issues of economic access and equity through a statistical lens. I usually code in Python with intermediate knowledge of Java. My projects are usually in statistical modelling, deep learning, and data analytics. Some of my most recent ones are: 
+I'm interested in the intersection of data science and impact and spend time thinking about issues of economic access and equity through a statistical lens. I usually code in Python and R with intermediate knowledge of Java. My projects are usually in statistical modelling, deep learning, and data analytics. Some of my most recent ones are: 
 
 **Analyzing the Median Income of US Householders**: Used R to analyze US Census Bureau data and created informative visualizations to capture the distribution of median income by household owners’ highest educational attainment
 
